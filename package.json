@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bo-stevenson/employee-tracker.git"
+    "url": "git+https://github.com/mjallah/employee-tracker1"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bo-stevenson/employee-tracker/issues"
+    "url": "https://mjallah.github.io/employee-tracker1/"
   },
-  "homepage": "https://github.com/bo-stevenson/employee-tracker#readme",
+  "homepage": "https://github.com/mjallah/employee-tracker1",
   "dependencies": {
     "asciiart-logo": "^0.2.6",
     "console.table": "^0.10.0",
